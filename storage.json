@@ -1,0 +1,30 @@
+[
+    {
+        "title": "aaa",
+        "author": "aaa",
+        "year": 123,
+        "status": "в наличии",
+        "id": "5c75b787-1553-42bf-948f-de5511e52c15"
+    },
+    {
+        "title": "asdfasdfasdf",
+        "author": "asdfasdfasdfasdf",
+        "year": 1111,
+        "status": "в наличии",
+        "id": "4c2e3a79-662b-4870-8fe8-b9b8261cf911"
+    },
+    {
+        "title": "mybook2",
+        "author": "ilia",
+        "year": 1949,
+        "status": "выдана",
+        "id": "7e357e17-cea9-4506-9331-ed4caf84ef7d"
+    },
+    {
+        "title": "123",
+        "author": "123",
+        "year": 123,
+        "status": "в наличии",
+        "id": "17191fd7-9276-4ec6-94cf-fc112a44f866"
+    }
+]
